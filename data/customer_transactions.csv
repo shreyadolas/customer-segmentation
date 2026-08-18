@@ -1,0 +1,1001 @@
+Customer_ID,Purchase_Date,Product_Category,Amount,City,Payment_Method
+C0003,2025-01-01,Electronics,1623.84,Aurangabad,UPI
+C0043,2025-01-01,Home,4092.22,Thane,UPI
+C0185,2025-01-01,Clothing,856.38,Bengaluru,Debit Card
+C0021,2025-01-01,Home,1529.52,Nagpur,Credit Card
+C0126,2025-01-02,Electronics,1832.71,Nashik,Debit Card
+C0115,2025-01-02,Sports,2169.37,Mumbai,UPI
+C0065,2025-01-02,Electronics,8335.33,Nagpur,Credit Card
+C0012,2025-01-03,Home,1783.74,Thane,Credit Card
+C0191,2025-01-03,Sports,4415.04,Aurangabad,Net Banking
+C0103,2025-01-03,Electronics,3953.35,Bengaluru,Net Banking
+C0058,2025-01-04,Beauty,1733.8,Aurangabad,UPI
+C0113,2025-01-04,Clothing,5791.0,Bengaluru,Debit Card
+C0044,2025-01-05,Electronics,798.18,Bengaluru,UPI
+C0192,2025-01-06,Home,2154.97,Pune,UPI
+C0113,2025-01-07,Home,1747.76,Delhi,UPI
+C0012,2025-01-07,Sports,3279.43,Nashik,Net Banking
+C0149,2025-01-07,Clothing,2257.46,Nashik,UPI
+C0168,2025-01-07,Electronics,675.95,Thane,Credit Card
+C0079,2025-01-08,Electronics,1476.0,Aurangabad,UPI
+C0198,2025-01-08,Clothing,1853.44,Pune,Debit Card
+C0113,2025-01-09,Home,559.57,Pune,Debit Card
+C0014,2025-01-10,Electronics,2061.11,Pune,UPI
+C0111,2025-01-10,Sports,2610.15,Nagpur,UPI
+C0023,2025-01-10,Clothing,1849.3,Nashik,UPI
+C0128,2025-01-11,Clothing,4314.67,Delhi,UPI
+C0070,2025-01-11,Clothing,1669.05,Thane,UPI
+C0145,2025-01-11,Sports,3595.05,Thane,Credit Card
+C0142,2025-01-11,Electronics,3563.94,Delhi,UPI
+C0160,2025-01-12,Beauty,4431.77,Delhi,UPI
+C0145,2025-01-12,Sports,4405.09,Bengaluru,Net Banking
+C0155,2025-01-12,Sports,2230.5,Aurangabad,Cash
+C0143,2025-01-12,Clothing,1774.9,Nagpur,Net Banking
+C0053,2025-01-13,Sports,4482.16,Nashik,UPI
+C0086,2025-01-14,Beauty,2168.14,Delhi,Debit Card
+C0014,2025-01-14,Clothing,1947.71,Nagpur,Net Banking
+C0062,2025-01-15,Sports,353.71,Delhi,Cash
+C0136,2025-01-15,Home,2541.44,Pune,UPI
+C0066,2025-01-16,Electronics,848.82,Thane,UPI
+C0194,2025-01-16,Home,2590.76,Pune,UPI
+C0090,2025-01-17,Clothing,949.28,Bengaluru,Credit Card
+C0128,2025-01-17,Clothing,1617.36,Aurangabad,Debit Card
+C0152,2025-01-17,Clothing,1729.34,Delhi,UPI
+C0035,2025-01-17,Electronics,3027.33,Pune,UPI
+C0099,2025-01-17,Electronics,4332.01,Nagpur,UPI
+C0129,2025-01-18,Home,7568.35,Nashik,Debit Card
+C0087,2025-01-19,Beauty,3172.83,Nashik,UPI
+C0195,2025-01-19,Home,4627.14,Nagpur,UPI
+C0048,2025-01-20,Sports,857.9,Thane,Cash
+C0182,2025-01-20,Beauty,616.88,Mumbai,UPI
+C0081,2025-01-21,Clothing,907.61,Thane,Credit Card
+C0056,2025-01-21,Home,4530.78,Nashik,Credit Card
+C0140,2025-01-21,Electronics,1279.24,Nashik,Debit Card
+C0037,2025-01-22,Beauty,641.98,Nashik,Credit Card
+C0111,2025-01-22,Electronics,5144.02,Delhi,UPI
+C0185,2025-01-22,Electronics,2299.68,Bengaluru,UPI
+C0024,2025-01-23,Clothing,2215.09,Bengaluru,UPI
+C0015,2025-01-23,Clothing,958.18,Aurangabad,Credit Card
+C0060,2025-01-24,Beauty,930.43,Delhi,Debit Card
+C0172,2025-01-25,Electronics,2460.49,Mumbai,Debit Card
+C0200,2025-01-25,Clothing,3627.22,Mumbai,UPI
+C0109,2025-01-26,Electronics,1049.18,Aurangabad,UPI
+C0015,2025-01-26,Beauty,1455.41,Delhi,Net Banking
+C0076,2025-01-27,Clothing,2169.56,Aurangabad,Net Banking
+C0054,2025-01-27,Home,1549.33,Nagpur,UPI
+C0105,2025-01-28,Beauty,1520.35,Bengaluru,Net Banking
+C0160,2025-01-29,Electronics,964.58,Pune,Credit Card
+C0062,2025-01-29,Sports,1915.99,Aurangabad,UPI
+C0049,2025-01-29,Sports,5551.37,Mumbai,UPI
+C0164,2025-01-29,Clothing,2525.9,Nagpur,UPI
+C0135,2025-01-29,Electronics,3701.99,Bengaluru,Net Banking
+C0161,2025-01-31,Clothing,1325.39,Aurangabad,UPI
+C0113,2025-02-01,Home,5629.16,Delhi,Credit Card
+C0084,2025-02-02,Electronics,826.32,Aurangabad,Debit Card
+C0146,2025-02-03,Electronics,3745.62,Delhi,Debit Card
+C0008,2025-02-04,Clothing,1591.23,Nashik,UPI
+C0050,2025-02-04,Home,923.66,Nagpur,Credit Card
+C0185,2025-02-05,Beauty,1531.58,Mumbai,Credit Card
+C0101,2025-02-06,Electronics,1765.44,Bengaluru,Cash
+C0010,2025-02-06,Clothing,2546.49,Thane,Debit Card
+C0039,2025-02-07,Clothing,868.67,Thane,Credit Card
+C0115,2025-02-08,Electronics,934.07,Delhi,Cash
+C0008,2025-02-08,Sports,740.63,Nashik,Credit Card
+C0158,2025-02-08,Clothing,2041.47,Nashik,UPI
+C0009,2025-02-08,Beauty,4038.71,Thane,Cash
+C0045,2025-02-08,Beauty,2114.93,Bengaluru,UPI
+C0086,2025-02-08,Beauty,1519.8,Aurangabad,Cash
+C0166,2025-02-08,Clothing,640.46,Nagpur,UPI
+C0034,2025-02-09,Electronics,3908.95,Nashik,UPI
+C0004,2025-02-09,Electronics,1132.56,Bengaluru,UPI
+C0016,2025-02-09,Sports,1639.14,Aurangabad,UPI
+C0094,2025-02-09,Home,676.11,Mumbai,Credit Card
+C0088,2025-02-09,Home,3044.24,Thane,Credit Card
+C0093,2025-02-10,Home,3431.48,Aurangabad,UPI
+C0017,2025-02-11,Electronics,3557.89,Thane,UPI
+C0015,2025-02-11,Electronics,2608.33,Aurangabad,Debit Card
+C0099,2025-02-11,Electronics,1622.45,Nagpur,UPI
+C0056,2025-02-12,Beauty,7982.51,Mumbai,Debit Card
+C0095,2025-02-13,Home,545.65,Aurangabad,UPI
+C0019,2025-02-15,Beauty,2117.68,Bengaluru,UPI
+C0008,2025-02-15,Electronics,2238.68,Thane,UPI
+C0096,2025-02-16,Home,3857.95,Aurangabad,UPI
+C0104,2025-02-16,Beauty,1013.93,Nashik,UPI
+C0086,2025-02-16,Clothing,1862.73,Nashik,UPI
+C0111,2025-02-18,Beauty,204.53,Delhi,Debit Card
+C0118,2025-02-18,Home,1186.82,Aurangabad,Credit Card
+C0013,2025-02-20,Electronics,1023.39,Nagpur,UPI
+C0099,2025-02-20,Clothing,3466.98,Aurangabad,Credit Card
+C0093,2025-02-20,Home,3387.59,Pune,UPI
+C0002,2025-02-22,Clothing,388.77,Thane,UPI
+C0151,2025-02-22,Beauty,2630.14,Thane,UPI
+C0034,2025-02-23,Electronics,1215.68,Pune,UPI
+C0124,2025-02-23,Beauty,4919.59,Nashik,UPI
+C0068,2025-02-24,Clothing,2937.62,Nashik,Credit Card
+C0038,2025-02-24,Beauty,2370.7,Thane,Net Banking
+C0158,2025-02-24,Home,5952.24,Nashik,Credit Card
+C0117,2025-02-28,Electronics,1613.92,Mumbai,Debit Card
+C0054,2025-02-28,Home,2235.29,Aurangabad,Credit Card
+C0160,2025-02-28,Electronics,2774.79,Thane,Credit Card
+C0133,2025-03-01,Home,1964.51,Aurangabad,UPI
+C0049,2025-03-02,Electronics,568.83,Aurangabad,Credit Card
+C0013,2025-03-02,Electronics,1250.4,Nagpur,Credit Card
+C0120,2025-03-03,Electronics,5671.13,Delhi,UPI
+C0016,2025-03-03,Beauty,900.07,Aurangabad,UPI
+C0186,2025-03-04,Home,1914.07,Bengaluru,Credit Card
+C0172,2025-03-04,Clothing,1429.01,Bengaluru,UPI
+C0136,2025-03-05,Home,4188.37,Pune,Debit Card
+C0021,2025-03-06,Clothing,1440.75,Nashik,Cash
+C0099,2025-03-07,Electronics,2028.65,Nashik,UPI
+C0005,2025-03-10,Beauty,2102.89,Aurangabad,UPI
+C0080,2025-03-10,Beauty,2394.07,Nagpur,UPI
+C0109,2025-03-10,Beauty,2309.56,Thane,Net Banking
+C0109,2025-03-13,Beauty,3062.07,Nagpur,UPI
+C0147,2025-03-14,Electronics,2737.1,Pune,Credit Card
+C0153,2025-03-14,Sports,858.11,Mumbai,UPI
+C0129,2025-03-16,Sports,1467.57,Delhi,Credit Card
+C0161,2025-03-16,Clothing,2863.37,Nashik,UPI
+C0128,2025-03-16,Home,5354.64,Nashik,UPI
+C0104,2025-03-16,Beauty,3060.56,Nagpur,UPI
+C0005,2025-03-17,Electronics,1345.17,Thane,Debit Card
+C0147,2025-03-19,Home,3313.09,Delhi,Cash
+C0190,2025-03-19,Beauty,3847.84,Bengaluru,Debit Card
+C0112,2025-03-20,Electronics,1059.9,Bengaluru,UPI
+C0018,2025-03-22,Beauty,1958.64,Bengaluru,UPI
+C0178,2025-03-23,Home,325.03,Thane,Credit Card
+C0012,2025-03-23,Sports,1104.45,Pune,Cash
+C0173,2025-03-25,Clothing,822.9,Delhi,UPI
+C0118,2025-03-25,Home,3346.57,Pune,UPI
+C0160,2025-03-25,Clothing,1656.89,Delhi,Credit Card
+C0177,2025-03-25,Electronics,749.69,Nashik,Cash
+C0083,2025-03-25,Electronics,1224.97,Bengaluru,UPI
+C0017,2025-03-25,Electronics,1952.3,Nagpur,Debit Card
+C0180,2025-03-25,Beauty,729.43,Aurangabad,Debit Card
+C0090,2025-03-26,Home,3751.78,Mumbai,UPI
+C0082,2025-03-26,Sports,4659.45,Nashik,UPI
+C0132,2025-03-27,Electronics,2658.49,Thane,UPI
+C0155,2025-03-27,Electronics,2600.31,Aurangabad,Net Banking
+C0195,2025-03-27,Clothing,655.27,Delhi,Credit Card
+C0145,2025-03-28,Home,2316.44,Aurangabad,UPI
+C0159,2025-03-28,Electronics,3719.11,Bengaluru,Credit Card
+C0167,2025-03-29,Electronics,3445.3,Delhi,UPI
+C0164,2025-03-29,Electronics,4617.13,Aurangabad,Cash
+C0093,2025-03-30,Clothing,2942.53,Nashik,Credit Card
+C0174,2025-03-30,Clothing,2078.8,Pune,UPI
+C0200,2025-03-30,Electronics,2224.94,Mumbai,UPI
+C0132,2025-03-30,Clothing,855.9,Pune,Cash
+C0105,2025-03-31,Beauty,2212.06,Pune,Debit Card
+C0007,2025-03-31,Electronics,1240.84,Aurangabad,Credit Card
+C0073,2025-03-31,Clothing,5882.5,Nashik,Credit Card
+C0173,2025-04-02,Electronics,1864.49,Nashik,Debit Card
+C0152,2025-04-02,Sports,1163.89,Nagpur,Net Banking
+C0092,2025-04-03,Sports,3467.38,Delhi,UPI
+C0175,2025-04-05,Home,2188.77,Nagpur,UPI
+C0172,2025-04-05,Beauty,1138.48,Nashik,Debit Card
+C0187,2025-04-06,Clothing,1473.66,Delhi,Debit Card
+C0123,2025-04-07,Electronics,1370.28,Pune,UPI
+C0022,2025-04-08,Home,710.66,Thane,Net Banking
+C0057,2025-04-08,Clothing,1471.23,Pune,UPI
+C0118,2025-04-09,Electronics,600.14,Pune,Net Banking
+C0189,2025-04-09,Beauty,1677.11,Delhi,Cash
+C0109,2025-04-10,Home,1019.01,Bengaluru,Debit Card
+C0001,2025-04-12,Clothing,2096.6,Pune,UPI
+C0195,2025-04-12,Sports,1995.35,Delhi,Credit Card
+C0093,2025-04-12,Electronics,877.67,Pune,Net Banking
+C0019,2025-04-12,Beauty,2066.75,Pune,UPI
+C0200,2025-04-13,Clothing,316.63,Mumbai,Credit Card
+C0015,2025-04-14,Electronics,555.84,Pune,Credit Card
+C0131,2025-04-16,Beauty,1731.69,Thane,Credit Card
+C0187,2025-04-16,Home,3317.53,Delhi,Debit Card
+C0029,2025-04-16,Clothing,2842.58,Bengaluru,Credit Card
+C0137,2025-04-17,Beauty,3135.3,Mumbai,UPI
+C0004,2025-04-17,Home,5005.95,Aurangabad,UPI
+C0099,2025-04-18,Beauty,7327.72,Pune,UPI
+C0038,2025-04-18,Home,2624.09,Thane,UPI
+C0086,2025-04-18,Electronics,806.28,Pune,UPI
+C0166,2025-04-19,Home,3784.9,Aurangabad,Credit Card
+C0173,2025-04-21,Clothing,3618.78,Pune,Debit Card
+C0093,2025-04-23,Clothing,5035.05,Nashik,Credit Card
+C0172,2025-04-23,Clothing,2894.17,Thane,UPI
+C0131,2025-04-23,Beauty,2812.07,Bengaluru,Debit Card
+C0176,2025-04-23,Beauty,2976.7,Delhi,UPI
+C0034,2025-04-24,Beauty,1411.88,Nagpur,Credit Card
+C0160,2025-04-24,Sports,1742.08,Nashik,Credit Card
+C0100,2025-04-24,Clothing,2126.38,Mumbai,Credit Card
+C0099,2025-04-25,Beauty,5528.17,Nagpur,Cash
+C0096,2025-04-25,Clothing,2255.89,Bengaluru,Credit Card
+C0148,2025-04-26,Sports,1793.93,Nagpur,UPI
+C0001,2025-04-27,Clothing,2349.52,Nashik,Credit Card
+C0029,2025-04-27,Clothing,1826.47,Bengaluru,UPI
+C0157,2025-04-27,Home,1620.0,Pune,Credit Card
+C0075,2025-04-27,Home,3099.04,Nashik,Cash
+C0022,2025-04-28,Electronics,2055.65,Thane,UPI
+C0068,2025-04-28,Home,1225.42,Aurangabad,Net Banking
+C0108,2025-04-28,Clothing,1043.15,Bengaluru,UPI
+C0162,2025-04-28,Home,2288.39,Mumbai,Credit Card
+C0123,2025-04-29,Beauty,1302.95,Nashik,Cash
+C0007,2025-04-29,Electronics,2923.01,Aurangabad,Debit Card
+C0074,2025-04-29,Beauty,1752.35,Bengaluru,Debit Card
+C0195,2025-04-30,Beauty,3596.07,Thane,Net Banking
+C0113,2025-04-30,Clothing,2208.09,Thane,UPI
+C0022,2025-04-30,Home,1634.99,Delhi,Credit Card
+C0173,2025-05-01,Clothing,2704.3,Thane,UPI
+C0167,2025-05-02,Electronics,908.34,Nagpur,Net Banking
+C0003,2025-05-02,Clothing,1339.13,Delhi,Debit Card
+C0085,2025-05-04,Clothing,2598.15,Aurangabad,UPI
+C0008,2025-05-04,Electronics,2182.46,Nashik,UPI
+C0066,2025-05-06,Electronics,3285.58,Pune,Debit Card
+C0049,2025-05-07,Clothing,920.16,Bengaluru,Debit Card
+C0171,2025-05-07,Home,978.12,Pune,UPI
+C0112,2025-05-08,Beauty,2405.73,Bengaluru,Credit Card
+C0009,2025-05-08,Sports,3839.54,Aurangabad,UPI
+C0106,2025-05-09,Sports,1474.55,Mumbai,Credit Card
+C0161,2025-05-10,Clothing,3899.49,Delhi,Debit Card
+C0193,2025-05-10,Electronics,5185.58,Bengaluru,Credit Card
+C0048,2025-05-10,Beauty,4587.26,Nagpur,Credit Card
+C0052,2025-05-10,Sports,1208.41,Bengaluru,Debit Card
+C0046,2025-05-11,Clothing,602.1,Pune,Credit Card
+C0036,2025-05-11,Clothing,4380.03,Thane,UPI
+C0048,2025-05-12,Home,5295.59,Bengaluru,Net Banking
+C0145,2025-05-13,Beauty,3475.89,Delhi,Net Banking
+C0143,2025-05-13,Beauty,3814.85,Mumbai,Credit Card
+C0067,2025-05-13,Electronics,4674.92,Pune,UPI
+C0073,2025-05-13,Clothing,2759.91,Nagpur,Debit Card
+C0137,2025-05-14,Sports,617.64,Nashik,UPI
+C0050,2025-05-17,Clothing,2197.91,Nagpur,Credit Card
+C0150,2025-05-17,Electronics,4825.65,Thane,UPI
+C0044,2025-05-17,Beauty,1690.93,Delhi,Credit Card
+C0137,2025-05-17,Sports,1812.39,Aurangabad,UPI
+C0132,2025-05-19,Clothing,962.68,Thane,UPI
+C0052,2025-05-20,Home,4376.72,Pune,Credit Card
+C0051,2025-05-20,Home,2984.15,Delhi,UPI
+C0150,2025-05-21,Electronics,2189.66,Aurangabad,UPI
+C0130,2025-05-21,Clothing,654.67,Nagpur,Debit Card
+C0025,2025-05-21,Home,942.84,Mumbai,Debit Card
+C0096,2025-05-21,Clothing,243.87,Mumbai,Net Banking
+C0047,2025-05-21,Beauty,1542.12,Aurangabad,Net Banking
+C0006,2025-05-22,Beauty,5632.57,Nagpur,UPI
+C0001,2025-05-23,Clothing,2110.38,Nagpur,Net Banking
+C0188,2025-05-23,Beauty,3848.62,Nashik,UPI
+C0092,2025-05-23,Sports,1686.82,Thane,Credit Card
+C0130,2025-05-24,Clothing,3612.68,Delhi,Credit Card
+C0014,2025-05-24,Beauty,1449.93,Mumbai,Debit Card
+C0189,2025-05-25,Electronics,5179.07,Thane,UPI
+C0098,2025-05-25,Sports,1135.35,Aurangabad,Credit Card
+C0124,2025-05-25,Clothing,192.31,Mumbai,Debit Card
+C0006,2025-05-25,Clothing,3253.22,Nashik,Credit Card
+C0084,2025-05-26,Electronics,3652.88,Delhi,UPI
+C0094,2025-05-26,Sports,4093.34,Mumbai,Debit Card
+C0115,2025-05-27,Sports,4406.5,Bengaluru,Credit Card
+C0104,2025-05-27,Clothing,2065.17,Bengaluru,Credit Card
+C0128,2025-05-27,Electronics,2653.2,Aurangabad,Credit Card
+C0144,2025-05-27,Beauty,1368.06,Pune,Credit Card
+C0180,2025-05-28,Electronics,1896.81,Thane,Net Banking
+C0027,2025-05-28,Beauty,2352.97,Pune,Net Banking
+C0195,2025-05-29,Sports,473.74,Aurangabad,Cash
+C0039,2025-05-31,Home,897.44,Delhi,UPI
+C0091,2025-05-31,Clothing,977.09,Mumbai,UPI
+C0155,2025-06-01,Beauty,2467.65,Bengaluru,Net Banking
+C0060,2025-06-01,Electronics,3085.6,Mumbai,UPI
+C0034,2025-06-01,Electronics,1969.26,Mumbai,UPI
+C0019,2025-06-02,Beauty,1677.13,Delhi,Credit Card
+C0170,2025-06-02,Electronics,2482.38,Thane,UPI
+C0110,2025-06-02,Clothing,2431.0,Aurangabad,Debit Card
+C0197,2025-06-03,Home,3398.5,Nashik,UPI
+C0045,2025-06-03,Beauty,2534.39,Mumbai,Debit Card
+C0008,2025-06-03,Clothing,191.69,Nashik,Credit Card
+C0092,2025-06-05,Sports,738.15,Nashik,UPI
+C0152,2025-06-05,Clothing,3615.5,Pune,Debit Card
+C0109,2025-06-05,Beauty,3646.45,Aurangabad,UPI
+C0028,2025-06-06,Sports,1793.71,Delhi,Credit Card
+C0037,2025-06-06,Beauty,2669.19,Nashik,Net Banking
+C0172,2025-06-06,Sports,2595.18,Nagpur,UPI
+C0163,2025-06-06,Electronics,3707.45,Aurangabad,UPI
+C0037,2025-06-07,Home,295.6,Thane,Cash
+C0104,2025-06-08,Beauty,1931.05,Delhi,Net Banking
+C0186,2025-06-08,Clothing,1207.02,Bengaluru,UPI
+C0033,2025-06-08,Clothing,451.29,Thane,UPI
+C0013,2025-06-08,Beauty,1014.86,Delhi,UPI
+C0015,2025-06-08,Electronics,755.44,Pune,UPI
+C0069,2025-06-09,Beauty,5079.48,Pune,Credit Card
+C0008,2025-06-10,Beauty,1069.08,Nashik,Debit Card
+C0062,2025-06-10,Electronics,1986.06,Pune,Credit Card
+C0098,2025-06-10,Beauty,1603.91,Pune,UPI
+C0133,2025-06-10,Electronics,875.8,Delhi,UPI
+C0184,2025-06-11,Electronics,3082.25,Nashik,Net Banking
+C0109,2025-06-11,Beauty,2294.23,Aurangabad,Net Banking
+C0181,2025-06-12,Sports,70.88,Thane,UPI
+C0129,2025-06-12,Clothing,2020.13,Delhi,Debit Card
+C0193,2025-06-14,Electronics,829.28,Thane,UPI
+C0146,2025-06-14,Beauty,2908.81,Bengaluru,UPI
+C0199,2025-06-14,Electronics,1953.56,Nashik,UPI
+C0132,2025-06-15,Home,539.34,Aurangabad,Credit Card
+C0127,2025-06-15,Home,4497.59,Aurangabad,Net Banking
+C0189,2025-06-17,Electronics,660.19,Thane,Credit Card
+C0084,2025-06-17,Clothing,4907.07,Aurangabad,Credit Card
+C0130,2025-06-17,Clothing,1307.44,Pune,UPI
+C0029,2025-06-19,Electronics,1433.39,Delhi,UPI
+C0189,2025-06-19,Beauty,2150.79,Nashik,UPI
+C0186,2025-06-19,Home,905.49,Nagpur,UPI
+C0173,2025-06-20,Clothing,1805.86,Thane,Debit Card
+C0124,2025-06-21,Electronics,769.92,Nashik,Credit Card
+C0090,2025-06-21,Clothing,1607.31,Delhi,UPI
+C0044,2025-06-21,Clothing,4881.22,Delhi,UPI
+C0190,2025-06-22,Home,2357.15,Pune,Credit Card
+C0138,2025-06-24,Clothing,3336.85,Delhi,UPI
+C0126,2025-06-24,Clothing,920.49,Pune,Credit Card
+C0101,2025-06-25,Clothing,2053.78,Delhi,UPI
+C0165,2025-06-26,Electronics,2088.08,Thane,Net Banking
+C0069,2025-06-27,Electronics,2756.05,Thane,Net Banking
+C0082,2025-06-27,Clothing,511.6,Bengaluru,UPI
+C0071,2025-06-28,Clothing,2748.32,Pune,Credit Card
+C0103,2025-06-28,Electronics,1575.56,Thane,Debit Card
+C0155,2025-06-29,Beauty,1690.66,Mumbai,Credit Card
+C0198,2025-07-01,Home,567.72,Thane,Credit Card
+C0052,2025-07-01,Clothing,114.04,Nashik,Net Banking
+C0062,2025-07-01,Clothing,2186.87,Mumbai,UPI
+C0020,2025-07-02,Home,1096.54,Thane,Debit Card
+C0038,2025-07-03,Home,2528.41,Bengaluru,Credit Card
+C0103,2025-07-04,Clothing,6013.83,Thane,UPI
+C0115,2025-07-05,Sports,1806.59,Bengaluru,Credit Card
+C0187,2025-07-06,Home,969.16,Thane,Net Banking
+C0144,2025-07-06,Sports,672.39,Mumbai,UPI
+C0135,2025-07-07,Sports,2398.3,Mumbai,UPI
+C0171,2025-07-10,Beauty,2223.27,Nagpur,Net Banking
+C0096,2025-07-11,Home,846.82,Nagpur,UPI
+C0184,2025-07-12,Beauty,1599.1,Nashik,Credit Card
+C0170,2025-07-13,Clothing,1278.2,Pune,Debit Card
+C0130,2025-07-13,Clothing,594.09,Nagpur,UPI
+C0061,2025-07-13,Beauty,913.55,Aurangabad,Credit Card
+C0086,2025-07-14,Electronics,1987.06,Nashik,UPI
+C0135,2025-07-15,Home,1940.48,Aurangabad,UPI
+C0192,2025-07-15,Clothing,2753.3,Delhi,Credit Card
+C0065,2025-07-17,Home,1353.9,Thane,Net Banking
+C0012,2025-07-17,Beauty,1562.11,Pune,UPI
+C0074,2025-07-18,Electronics,819.61,Pune,Debit Card
+C0058,2025-07-19,Electronics,1516.57,Nashik,UPI
+C0192,2025-07-20,Clothing,543.58,Mumbai,Net Banking
+C0161,2025-07-20,Beauty,1341.38,Nagpur,Debit Card
+C0084,2025-07-21,Clothing,1861.45,Pune,UPI
+C0190,2025-07-23,Home,427.08,Pune,UPI
+C0057,2025-07-25,Electronics,993.17,Pune,Debit Card
+C0137,2025-07-25,Clothing,1167.08,Nashik,Cash
+C0164,2025-07-26,Beauty,1546.2,Pune,Net Banking
+C0164,2025-07-27,Home,2231.7,Pune,Debit Card
+C0142,2025-07-27,Sports,294.34,Bengaluru,Debit Card
+C0147,2025-07-28,Clothing,985.64,Bengaluru,Cash
+C0052,2025-07-29,Home,1729.03,Pune,UPI
+C0027,2025-07-29,Electronics,2022.31,Thane,Debit Card
+C0183,2025-07-29,Electronics,859.62,Mumbai,Net Banking
+C0182,2025-08-02,Sports,653.78,Nashik,Credit Card
+C0131,2025-08-03,Sports,2489.36,Pune,Cash
+C0192,2025-08-04,Clothing,3755.1,Nashik,Debit Card
+C0002,2025-08-04,Home,1506.76,Thane,Credit Card
+C0085,2025-08-04,Electronics,3247.11,Delhi,Debit Card
+C0067,2025-08-04,Sports,1577.77,Mumbai,UPI
+C0151,2025-08-04,Electronics,4107.36,Aurangabad,Debit Card
+C0192,2025-08-05,Electronics,1709.7,Pune,Credit Card
+C0075,2025-08-05,Sports,1484.84,Pune,UPI
+C0063,2025-08-06,Clothing,3504.61,Pune,UPI
+C0129,2025-08-06,Home,1706.18,Pune,UPI
+C0017,2025-08-06,Beauty,5776.7,Thane,UPI
+C0118,2025-08-08,Clothing,1472.87,Nashik,UPI
+C0067,2025-08-08,Beauty,1181.42,Pune,Debit Card
+C0078,2025-08-09,Clothing,1033.29,Mumbai,UPI
+C0138,2025-08-10,Electronics,1450.83,Pune,UPI
+C0198,2025-08-10,Electronics,3072.08,Thane,Debit Card
+C0192,2025-08-11,Electronics,1479.04,Nashik,Credit Card
+C0161,2025-08-11,Clothing,1114.98,Nashik,UPI
+C0115,2025-08-11,Sports,551.49,Aurangabad,Credit Card
+C0130,2025-08-11,Clothing,1734.02,Delhi,Debit Card
+C0039,2025-08-11,Sports,892.3,Nashik,Credit Card
+C0081,2025-08-12,Electronics,3425.82,Delhi,UPI
+C0120,2025-08-12,Beauty,275.54,Aurangabad,UPI
+C0138,2025-08-12,Electronics,2007.63,Pune,Net Banking
+C0058,2025-08-13,Electronics,3552.4,Aurangabad,UPI
+C0055,2025-08-13,Home,4494.09,Bengaluru,UPI
+C0041,2025-08-13,Sports,2854.76,Mumbai,Debit Card
+C0176,2025-08-14,Electronics,3080.51,Pune,Debit Card
+C0140,2025-08-14,Home,4764.83,Aurangabad,Credit Card
+C0113,2025-08-14,Home,1502.84,Nashik,Net Banking
+C0063,2025-08-14,Electronics,2112.64,Aurangabad,UPI
+C0115,2025-08-15,Beauty,789.44,Pune,Credit Card
+C0105,2025-08-15,Electronics,1666.89,Pune,UPI
+C0048,2025-08-16,Home,1442.09,Mumbai,Net Banking
+C0070,2025-08-17,Clothing,1613.01,Pune,Debit Card
+C0006,2025-08-17,Home,2337.8,Nagpur,Credit Card
+C0158,2025-08-17,Electronics,3460.21,Delhi,Debit Card
+C0004,2025-08-17,Beauty,6341.28,Thane,UPI
+C0149,2025-08-17,Beauty,2675.18,Nashik,Net Banking
+C0027,2025-08-19,Clothing,3538.35,Mumbai,Debit Card
+C0081,2025-08-19,Beauty,1672.15,Bengaluru,UPI
+C0157,2025-08-21,Clothing,777.12,Mumbai,Net Banking
+C0154,2025-08-21,Sports,1156.65,Mumbai,UPI
+C0116,2025-08-23,Electronics,4419.22,Nagpur,Debit Card
+C0175,2025-08-24,Clothing,734.7,Bengaluru,Debit Card
+C0122,2025-08-24,Electronics,2056.44,Delhi,UPI
+C0153,2025-08-25,Beauty,1925.59,Aurangabad,UPI
+C0152,2025-08-25,Home,4684.05,Nagpur,Debit Card
+C0187,2025-08-27,Clothing,5014.93,Bengaluru,UPI
+C0188,2025-08-27,Sports,5254.69,Pune,UPI
+C0119,2025-08-29,Beauty,1734.91,Nagpur,Credit Card
+C0141,2025-08-30,Clothing,2417.38,Pune,UPI
+C0151,2025-08-30,Home,449.55,Aurangabad,Debit Card
+C0099,2025-08-30,Beauty,1141.05,Nashik,Debit Card
+C0117,2025-08-31,Sports,1724.01,Aurangabad,Debit Card
+C0053,2025-08-31,Home,2783.57,Nashik,UPI
+C0118,2025-08-31,Beauty,757.7,Thane,UPI
+C0092,2025-09-01,Electronics,1717.6,Aurangabad,UPI
+C0021,2025-09-01,Beauty,4952.72,Mumbai,Net Banking
+C0070,2025-09-02,Beauty,2288.72,Bengaluru,Credit Card
+C0197,2025-09-03,Clothing,2115.09,Mumbai,Credit Card
+C0161,2025-09-07,Clothing,1620.03,Nagpur,UPI
+C0130,2025-09-07,Beauty,3679.55,Thane,Debit Card
+C0072,2025-09-08,Home,3060.84,Nagpur,UPI
+C0125,2025-09-08,Electronics,303.93,Bengaluru,UPI
+C0061,2025-09-08,Home,3120.14,Bengaluru,UPI
+C0142,2025-09-08,Electronics,541.74,Aurangabad,Net Banking
+C0033,2025-09-08,Beauty,2152.06,Pune,Debit Card
+C0103,2025-09-11,Home,3114.81,Nagpur,Credit Card
+C0028,2025-09-11,Sports,1054.61,Aurangabad,Debit Card
+C0060,2025-09-13,Clothing,290.83,Bengaluru,Credit Card
+C0144,2025-09-14,Electronics,804.42,Nashik,UPI
+C0083,2025-09-14,Home,2002.88,Aurangabad,UPI
+C0046,2025-09-15,Electronics,1721.37,Bengaluru,UPI
+C0122,2025-09-16,Beauty,2666.42,Nagpur,UPI
+C0060,2025-09-16,Electronics,2193.27,Pune,UPI
+C0009,2025-09-18,Clothing,2959.84,Pune,UPI
+C0055,2025-09-18,Electronics,694.54,Delhi,UPI
+C0197,2025-09-18,Home,1702.09,Pune,Credit Card
+C0099,2025-09-18,Clothing,2957.2,Pune,Net Banking
+C0112,2025-09-18,Electronics,1349.54,Aurangabad,UPI
+C0080,2025-09-19,Clothing,2324.33,Thane,Net Banking
+C0107,2025-09-20,Electronics,921.93,Bengaluru,Debit Card
+C0160,2025-09-21,Sports,988.8,Mumbai,Net Banking
+C0003,2025-09-21,Beauty,1386.86,Mumbai,UPI
+C0058,2025-09-21,Home,5155.01,Aurangabad,Net Banking
+C0008,2025-09-23,Home,2519.74,Nashik,UPI
+C0133,2025-09-24,Home,1189.24,Delhi,UPI
+C0154,2025-09-24,Beauty,1157.18,Pune,Debit Card
+C0047,2025-09-25,Clothing,1456.68,Delhi,Debit Card
+C0169,2025-09-25,Electronics,1836.75,Mumbai,UPI
+C0024,2025-09-25,Electronics,1116.95,Aurangabad,UPI
+C0053,2025-09-27,Clothing,5330.22,Bengaluru,UPI
+C0054,2025-09-27,Beauty,2581.67,Mumbai,Credit Card
+C0023,2025-09-27,Electronics,3821.81,Nagpur,Credit Card
+C0186,2025-09-28,Beauty,1159.32,Thane,UPI
+C0199,2025-09-28,Electronics,717.37,Aurangabad,Credit Card
+C0015,2025-09-29,Clothing,3450.79,Mumbai,UPI
+C0027,2025-09-30,Home,729.11,Mumbai,Debit Card
+C0153,2025-09-30,Beauty,4472.13,Bengaluru,Credit Card
+C0065,2025-10-01,Clothing,278.82,Mumbai,UPI
+C0058,2025-10-01,Clothing,871.97,Bengaluru,Debit Card
+C0181,2025-10-02,Home,428.39,Bengaluru,UPI
+C0085,2025-10-03,Electronics,966.47,Mumbai,Credit Card
+C0047,2025-10-03,Sports,3307.98,Mumbai,UPI
+C0088,2025-10-04,Sports,2538.96,Pune,UPI
+C0138,2025-10-04,Home,2969.22,Delhi,Credit Card
+C0152,2025-10-05,Beauty,2231.47,Delhi,Net Banking
+C0152,2025-10-05,Home,6666.14,Aurangabad,UPI
+C0178,2025-10-06,Electronics,434.19,Bengaluru,Net Banking
+C0197,2025-10-07,Beauty,3843.41,Nagpur,UPI
+C0054,2025-10-08,Clothing,1356.5,Thane,Debit Card
+C0107,2025-10-09,Beauty,1392.05,Mumbai,Net Banking
+C0118,2025-10-09,Home,2839.58,Nashik,Net Banking
+C0001,2025-10-10,Electronics,3806.86,Mumbai,Credit Card
+C0051,2025-10-11,Electronics,2090.73,Nagpur,Credit Card
+C0184,2025-10-12,Sports,2672.61,Mumbai,UPI
+C0051,2025-10-12,Electronics,734.43,Bengaluru,UPI
+C0100,2025-10-12,Beauty,1568.73,Bengaluru,Credit Card
+C0099,2025-10-12,Clothing,1278.94,Nashik,UPI
+C0185,2025-10-12,Electronics,5623.43,Nashik,Credit Card
+C0002,2025-10-13,Sports,1004.58,Nashik,Net Banking
+C0163,2025-10-14,Electronics,1936.14,Aurangabad,UPI
+C0111,2025-10-14,Electronics,1617.1,Mumbai,Net Banking
+C0003,2025-10-14,Sports,1399.49,Delhi,Credit Card
+C0016,2025-10-15,Electronics,3417.83,Delhi,Credit Card
+C0151,2025-10-15,Electronics,322.0,Aurangabad,Net Banking
+C0090,2025-10-15,Sports,1478.92,Mumbai,Credit Card
+C0041,2025-10-16,Clothing,1031.36,Nashik,Cash
+C0063,2025-10-16,Beauty,2737.72,Delhi,UPI
+C0182,2025-10-16,Electronics,4701.46,Mumbai,UPI
+C0024,2025-10-16,Home,2213.72,Pune,UPI
+C0122,2025-10-16,Electronics,631.84,Bengaluru,UPI
+C0154,2025-10-18,Clothing,1594.98,Aurangabad,UPI
+C0070,2025-10-18,Home,693.82,Aurangabad,Credit Card
+C0191,2025-10-18,Clothing,1189.47,Aurangabad,Cash
+C0128,2025-10-19,Sports,1692.96,Bengaluru,Credit Card
+C0131,2025-10-19,Clothing,1560.66,Nashik,Credit Card
+C0047,2025-10-20,Home,2998.03,Aurangabad,Debit Card
+C0177,2025-10-20,Beauty,1553.37,Mumbai,UPI
+C0047,2025-10-20,Clothing,1003.65,Nashik,Debit Card
+C0162,2025-10-20,Clothing,2031.84,Delhi,Credit Card
+C0079,2025-10-21,Home,879.28,Nashik,Debit Card
+C0082,2025-10-22,Clothing,2618.01,Mumbai,UPI
+C0035,2025-10-22,Electronics,2182.12,Bengaluru,Cash
+C0134,2025-10-22,Home,176.24,Nashik,UPI
+C0187,2025-10-23,Clothing,1114.6,Pune,Net Banking
+C0004,2025-10-23,Home,2971.32,Aurangabad,Debit Card
+C0002,2025-10-23,Clothing,2155.73,Aurangabad,UPI
+C0040,2025-10-23,Clothing,1314.59,Bengaluru,Credit Card
+C0145,2025-10-23,Home,5490.36,Nagpur,UPI
+C0086,2025-10-24,Electronics,691.68,Nagpur,Credit Card
+C0039,2025-10-25,Sports,1835.32,Mumbai,UPI
+C0119,2025-10-25,Electronics,1528.99,Nashik,Debit Card
+C0175,2025-10-27,Home,1040.82,Nagpur,Net Banking
+C0121,2025-10-27,Home,1073.32,Nagpur,UPI
+C0133,2025-10-28,Electronics,1552.15,Aurangabad,Credit Card
+C0159,2025-10-28,Home,2762.44,Nagpur,Credit Card
+C0180,2025-10-28,Electronics,5497.04,Bengaluru,UPI
+C0054,2025-10-28,Clothing,222.24,Pune,Debit Card
+C0158,2025-10-29,Clothing,2814.73,Nashik,Credit Card
+C0042,2025-10-29,Electronics,4039.59,Nagpur,Credit Card
+C0194,2025-10-30,Home,1230.77,Mumbai,UPI
+C0025,2025-10-30,Clothing,689.14,Pune,Debit Card
+C0102,2025-10-30,Home,4563.77,Nashik,UPI
+C0183,2025-10-31,Electronics,1511.48,Aurangabad,UPI
+C0026,2025-10-31,Clothing,1387.62,Pune,Cash
+C0022,2025-11-01,Electronics,1834.99,Aurangabad,Credit Card
+C0081,2025-11-01,Beauty,1799.54,Pune,UPI
+C0190,2025-11-01,Clothing,338.88,Mumbai,Credit Card
+C0113,2025-11-01,Home,3095.71,Thane,UPI
+C0179,2025-11-02,Clothing,1462.96,Pune,Net Banking
+C0013,2025-11-02,Beauty,3484.72,Nashik,UPI
+C0200,2025-11-03,Beauty,1098.09,Thane,UPI
+C0191,2025-11-04,Home,4140.7,Thane,UPI
+C0108,2025-11-05,Beauty,2256.77,Mumbai,Net Banking
+C0074,2025-11-05,Home,4690.12,Thane,UPI
+C0075,2025-11-05,Home,1474.96,Thane,UPI
+C0126,2025-11-06,Sports,1318.28,Mumbai,Credit Card
+C0119,2025-11-06,Clothing,500.35,Nashik,UPI
+C0090,2025-11-06,Home,4770.75,Mumbai,Net Banking
+C0153,2025-11-07,Sports,3669.32,Bengaluru,Debit Card
+C0145,2025-11-07,Clothing,1464.88,Aurangabad,UPI
+C0192,2025-11-08,Sports,5205.37,Pune,UPI
+C0156,2025-11-08,Sports,378.2,Nagpur,Credit Card
+C0051,2025-11-08,Beauty,1066.11,Pune,UPI
+C0110,2025-11-09,Electronics,6200.56,Aurangabad,Debit Card
+C0190,2025-11-09,Clothing,815.31,Bengaluru,Credit Card
+C0139,2025-11-09,Sports,1646.48,Aurangabad,Debit Card
+C0020,2025-11-10,Sports,4533.7,Delhi,Debit Card
+C0021,2025-11-11,Electronics,4016.48,Nagpur,UPI
+C0069,2025-11-12,Electronics,2404.47,Bengaluru,Credit Card
+C0191,2025-11-13,Clothing,2345.12,Delhi,Cash
+C0085,2025-11-14,Beauty,4344.29,Pune,UPI
+C0101,2025-11-14,Electronics,7341.96,Thane,UPI
+C0044,2025-11-14,Sports,3778.56,Pune,UPI
+C0008,2025-11-14,Electronics,2907.11,Thane,UPI
+C0147,2025-11-14,Clothing,1629.49,Aurangabad,Net Banking
+C0160,2025-11-14,Clothing,2135.26,Nashik,UPI
+C0161,2025-11-14,Beauty,557.35,Nashik,UPI
+C0170,2025-11-14,Clothing,1573.89,Delhi,Debit Card
+C0106,2025-11-15,Clothing,2144.36,Mumbai,Debit Card
+C0092,2025-11-15,Home,1537.81,Aurangabad,UPI
+C0134,2025-11-16,Electronics,2919.26,Bengaluru,Net Banking
+C0167,2025-11-16,Home,2104.22,Mumbai,Debit Card
+C0072,2025-11-16,Beauty,1164.02,Delhi,UPI
+C0086,2025-11-16,Clothing,2492.23,Delhi,UPI
+C0084,2025-11-17,Clothing,1421.14,Delhi,Debit Card
+C0188,2025-11-18,Beauty,3322.77,Pune,Debit Card
+C0001,2025-11-19,Clothing,3239.67,Pune,Debit Card
+C0144,2025-11-19,Beauty,1426.2,Pune,UPI
+C0036,2025-11-20,Electronics,1195.16,Bengaluru,Debit Card
+C0151,2025-11-20,Home,1742.52,Nashik,Credit Card
+C0035,2025-11-20,Home,2676.77,Bengaluru,Credit Card
+C0184,2025-11-20,Sports,1474.83,Mumbai,Credit Card
+C0116,2025-11-20,Electronics,3214.79,Thane,UPI
+C0180,2025-11-20,Beauty,5084.42,Pune,Net Banking
+C0190,2025-11-22,Clothing,1594.67,Bengaluru,Debit Card
+C0107,2025-11-22,Sports,8809.91,Nagpur,UPI
+C0196,2025-11-22,Sports,228.14,Nagpur,Net Banking
+C0039,2025-11-23,Sports,2001.76,Thane,Credit Card
+C0097,2025-11-24,Sports,3028.15,Bengaluru,UPI
+C0046,2025-11-24,Clothing,1767.76,Aurangabad,UPI
+C0100,2025-11-24,Clothing,853.59,Nagpur,UPI
+C0111,2025-11-25,Electronics,1706.9,Delhi,Debit Card
+C0195,2025-11-25,Sports,295.84,Mumbai,UPI
+C0127,2025-11-26,Home,2942.72,Delhi,Net Banking
+C0128,2025-11-26,Sports,3555.57,Nagpur,Debit Card
+C0188,2025-11-26,Clothing,3211.72,Nagpur,UPI
+C0122,2025-11-27,Home,1757.38,Thane,Debit Card
+C0185,2025-11-28,Home,1382.22,Mumbai,Cash
+C0136,2025-11-28,Beauty,3653.26,Bengaluru,Credit Card
+C0039,2025-11-30,Clothing,869.35,Aurangabad,Cash
+C0035,2025-11-30,Clothing,2842.43,Delhi,Credit Card
+C0056,2025-11-30,Electronics,2577.47,Delhi,Debit Card
+C0118,2025-11-30,Electronics,3709.23,Nashik,UPI
+C0046,2025-12-01,Home,1101.78,Bengaluru,UPI
+C0104,2025-12-01,Beauty,1038.78,Thane,Credit Card
+C0164,2025-12-01,Clothing,523.22,Delhi,UPI
+C0036,2025-12-02,Clothing,1669.04,Delhi,Credit Card
+C0052,2025-12-02,Electronics,1040.99,Aurangabad,Cash
+C0160,2025-12-02,Home,2517.71,Nagpur,Net Banking
+C0145,2025-12-04,Clothing,2392.03,Thane,Debit Card
+C0128,2025-12-05,Electronics,74.45,Pune,UPI
+C0060,2025-12-06,Clothing,1190.52,Nashik,Credit Card
+C0030,2025-12-07,Electronics,1746.44,Mumbai,Credit Card
+C0194,2025-12-08,Beauty,9698.68,Delhi,Cash
+C0113,2025-12-08,Sports,2320.82,Bengaluru,Net Banking
+C0094,2025-12-09,Home,3024.15,Bengaluru,Debit Card
+C0168,2025-12-10,Home,2979.25,Pune,UPI
+C0166,2025-12-10,Sports,1786.22,Bengaluru,Cash
+C0147,2025-12-10,Sports,3107.67,Bengaluru,UPI
+C0051,2025-12-10,Electronics,2974.96,Delhi,Credit Card
+C0003,2025-12-11,Sports,720.48,Pune,Credit Card
+C0161,2025-12-11,Beauty,1633.28,Delhi,UPI
+C0126,2025-12-11,Electronics,3700.37,Aurangabad,UPI
+C0090,2025-12-12,Sports,1206.59,Delhi,Debit Card
+C0170,2025-12-12,Home,429.42,Mumbai,Credit Card
+C0116,2025-12-13,Home,4340.31,Bengaluru,Credit Card
+C0145,2025-12-15,Clothing,7480.41,Bengaluru,Credit Card
+C0106,2025-12-15,Electronics,5367.54,Aurangabad,Credit Card
+C0098,2025-12-15,Clothing,2710.73,Nashik,Debit Card
+C0186,2025-12-15,Beauty,5695.66,Mumbai,UPI
+C0143,2025-12-15,Sports,2355.05,Delhi,Cash
+C0104,2025-12-16,Electronics,1100.19,Mumbai,UPI
+C0111,2025-12-16,Electronics,2879.39,Nagpur,Debit Card
+C0131,2025-12-16,Clothing,1166.15,Aurangabad,UPI
+C0018,2025-12-17,Clothing,3419.03,Delhi,Net Banking
+C0051,2025-12-18,Beauty,644.39,Mumbai,UPI
+C0152,2025-12-18,Clothing,2333.76,Mumbai,UPI
+C0090,2025-12-19,Clothing,328.92,Mumbai,Credit Card
+C0140,2025-12-19,Electronics,3135.07,Pune,Credit Card
+C0012,2025-12-22,Sports,1356.09,Thane,UPI
+C0153,2025-12-22,Sports,2473.16,Pune,Debit Card
+C0095,2025-12-22,Home,2052.75,Pune,Cash
+C0132,2025-12-22,Electronics,3587.42,Thane,UPI
+C0179,2025-12-22,Clothing,764.23,Pune,Credit Card
+C0076,2025-12-23,Home,2822.02,Nagpur,Debit Card
+C0081,2025-12-24,Sports,1970.43,Aurangabad,Credit Card
+C0056,2025-12-25,Clothing,934.03,Thane,Debit Card
+C0120,2025-12-25,Sports,4664.25,Nashik,Net Banking
+C0053,2025-12-25,Home,1844.09,Mumbai,UPI
+C0162,2025-12-26,Clothing,2084.21,Delhi,UPI
+C0052,2025-12-26,Beauty,1616.94,Delhi,Credit Card
+C0096,2025-12-27,Electronics,2176.49,Nashik,Credit Card
+C0095,2025-12-27,Beauty,2540.57,Mumbai,UPI
+C0165,2025-12-27,Clothing,1732.98,Aurangabad,Net Banking
+C0145,2025-12-28,Electronics,645.3,Nashik,Credit Card
+C0124,2025-12-29,Electronics,843.3,Pune,Credit Card
+C0148,2025-12-29,Beauty,2826.13,Thane,UPI
+C0124,2025-12-29,Electronics,1253.81,Pune,UPI
+C0044,2025-12-29,Beauty,541.0,Delhi,Debit Card
+C0140,2025-12-30,Sports,2083.37,Nashik,UPI
+C0048,2025-12-30,Electronics,3402.91,Delhi,Debit Card
+C0065,2025-12-30,Clothing,2761.92,Aurangabad,UPI
+C0101,2025-12-30,Sports,516.79,Delhi,UPI
+C0028,2025-12-31,Home,7233.13,Delhi,Net Banking
+C0135,2025-12-31,Beauty,814.62,Aurangabad,Debit Card
+C0061,2025-12-31,Beauty,3040.3,Bengaluru,Debit Card
+C0023,2026-01-01,Clothing,1408.55,Pune,UPI
+C0071,2026-01-01,Beauty,509.87,Delhi,Debit Card
+C0095,2026-01-02,Clothing,1321.89,Nashik,UPI
+C0103,2026-01-04,Clothing,777.29,Aurangabad,UPI
+C0134,2026-01-05,Electronics,3133.67,Delhi,Debit Card
+C0147,2026-01-06,Clothing,6425.68,Aurangabad,Debit Card
+C0082,2026-01-06,Home,555.54,Pune,UPI
+C0136,2026-01-06,Clothing,1478.14,Pune,UPI
+C0028,2026-01-06,Home,1719.9,Nagpur,Debit Card
+C0170,2026-01-07,Electronics,4669.62,Pune,Net Banking
+C0014,2026-01-08,Sports,1310.28,Bengaluru,UPI
+C0054,2026-01-09,Clothing,3475.7,Nagpur,Credit Card
+C0166,2026-01-10,Home,2986.9,Thane,UPI
+C0146,2026-01-10,Home,1344.21,Thane,Cash
+C0081,2026-01-11,Beauty,5956.26,Pune,Debit Card
+C0109,2026-01-11,Home,1168.49,Pune,UPI
+C0025,2026-01-11,Beauty,1654.8,Thane,Debit Card
+C0101,2026-01-12,Electronics,2050.07,Bengaluru,UPI
+C0103,2026-01-12,Clothing,1459.58,Pune,UPI
+C0036,2026-01-13,Clothing,4447.57,Aurangabad,UPI
+C0082,2026-01-13,Beauty,3686.19,Mumbai,Credit Card
+C0111,2026-01-13,Beauty,4213.48,Delhi,UPI
+C0174,2026-01-13,Home,1877.46,Thane,Debit Card
+C0162,2026-01-14,Clothing,951.48,Thane,Debit Card
+C0123,2026-01-15,Beauty,1552.84,Mumbai,UPI
+C0114,2026-01-15,Beauty,1222.69,Delhi,Cash
+C0063,2026-01-16,Beauty,3112.81,Pune,Credit Card
+C0129,2026-01-16,Electronics,3229.87,Pune,UPI
+C0025,2026-01-16,Beauty,3018.11,Mumbai,UPI
+C0030,2026-01-16,Beauty,1796.23,Aurangabad,Debit Card
+C0041,2026-01-17,Electronics,2527.3,Delhi,UPI
+C0069,2026-01-17,Clothing,1834.3,Mumbai,Cash
+C0047,2026-01-18,Home,5250.05,Nashik,UPI
+C0179,2026-01-19,Sports,3576.41,Delhi,UPI
+C0126,2026-01-20,Beauty,1534.97,Pune,Debit Card
+C0165,2026-01-21,Clothing,6841.05,Aurangabad,Credit Card
+C0042,2026-01-21,Home,629.78,Pune,Credit Card
+C0121,2026-01-21,Clothing,2374.82,Thane,Credit Card
+C0053,2026-01-22,Electronics,1069.73,Bengaluru,Debit Card
+C0186,2026-01-22,Electronics,2350.33,Aurangabad,Net Banking
+C0108,2026-01-24,Clothing,1465.47,Bengaluru,Credit Card
+C0147,2026-01-25,Home,2684.92,Mumbai,UPI
+C0116,2026-01-26,Home,3717.24,Pune,Cash
+C0017,2026-01-26,Sports,2218.75,Bengaluru,Credit Card
+C0089,2026-01-26,Home,1285.56,Bengaluru,Net Banking
+C0188,2026-01-27,Sports,1043.94,Nagpur,Debit Card
+C0108,2026-01-27,Electronics,1841.6,Thane,Net Banking
+C0043,2026-01-29,Electronics,2542.41,Pune,Credit Card
+C0144,2026-01-30,Home,4638.17,Nagpur,Credit Card
+C0181,2026-01-30,Home,3416.44,Delhi,UPI
+C0083,2026-01-30,Home,2506.47,Nagpur,Net Banking
+C0179,2026-01-31,Home,1886.05,Nashik,Credit Card
+C0144,2026-01-31,Electronics,1594.29,Thane,Debit Card
+C0147,2026-02-01,Sports,2143.93,Nagpur,UPI
+C0160,2026-02-01,Clothing,3554.48,Delhi,Net Banking
+C0092,2026-02-01,Sports,1371.44,Thane,Net Banking
+C0113,2026-02-03,Sports,1034.3,Nashik,UPI
+C0055,2026-02-03,Beauty,469.64,Bengaluru,UPI
+C0190,2026-02-05,Beauty,203.23,Bengaluru,Net Banking
+C0090,2026-02-05,Electronics,2195.48,Bengaluru,Credit Card
+C0127,2026-02-05,Home,2133.62,Nashik,UPI
+C0068,2026-02-05,Sports,1995.57,Aurangabad,UPI
+C0190,2026-02-06,Electronics,1819.57,Pune,UPI
+C0026,2026-02-06,Beauty,1632.43,Thane,Cash
+C0178,2026-02-08,Sports,1247.14,Thane,Credit Card
+C0066,2026-02-09,Home,2131.92,Nashik,UPI
+C0038,2026-02-10,Beauty,4903.79,Delhi,Net Banking
+C0026,2026-02-11,Clothing,2123.89,Aurangabad,UPI
+C0028,2026-02-11,Beauty,405.61,Mumbai,Credit Card
+C0051,2026-02-14,Clothing,2416.71,Nashik,UPI
+C0014,2026-02-14,Sports,2719.12,Mumbai,Credit Card
+C0146,2026-02-14,Beauty,3731.93,Pune,Credit Card
+C0101,2026-02-15,Home,1718.97,Delhi,Credit Card
+C0005,2026-02-15,Electronics,2639.0,Bengaluru,Credit Card
+C0164,2026-02-16,Sports,1470.21,Thane,UPI
+C0069,2026-02-18,Home,1494.42,Delhi,Debit Card
+C0114,2026-02-18,Home,1611.61,Nashik,UPI
+C0190,2026-02-18,Clothing,2909.19,Bengaluru,Debit Card
+C0166,2026-02-20,Sports,1891.3,Aurangabad,Credit Card
+C0058,2026-02-20,Clothing,1972.01,Thane,Credit Card
+C0061,2026-02-21,Home,872.73,Nashik,Net Banking
+C0035,2026-02-22,Electronics,1958.34,Mumbai,Net Banking
+C0121,2026-02-22,Beauty,204.68,Bengaluru,Net Banking
+C0148,2026-02-22,Electronics,4286.84,Delhi,UPI
+C0199,2026-02-23,Home,365.88,Delhi,Net Banking
+C0129,2026-02-23,Clothing,730.25,Bengaluru,Debit Card
+C0145,2026-02-24,Sports,1672.25,Nagpur,Debit Card
+C0045,2026-02-24,Clothing,1586.11,Nashik,Debit Card
+C0136,2026-02-24,Electronics,2384.14,Pune,Debit Card
+C0056,2026-02-24,Beauty,659.55,Mumbai,UPI
+C0101,2026-02-26,Sports,2131.44,Nashik,Net Banking
+C0053,2026-02-26,Clothing,680.07,Thane,Net Banking
+C0054,2026-02-28,Beauty,316.88,Nagpur,Credit Card
+C0197,2026-02-28,Sports,2535.76,Delhi,UPI
+C0093,2026-03-01,Beauty,2571.33,Mumbai,UPI
+C0189,2026-03-01,Home,1679.81,Nashik,Credit Card
+C0191,2026-03-02,Clothing,840.77,Nagpur,Net Banking
+C0074,2026-03-02,Home,1726.28,Nashik,UPI
+C0084,2026-03-03,Electronics,865.21,Nagpur,UPI
+C0061,2026-03-03,Home,3143.19,Aurangabad,UPI
+C0098,2026-03-03,Beauty,5077.11,Aurangabad,Debit Card
+C0092,2026-03-04,Sports,1845.2,Delhi,Credit Card
+C0030,2026-03-04,Clothing,4641.44,Mumbai,Credit Card
+C0196,2026-03-05,Clothing,4413.08,Pune,UPI
+C0187,2026-03-05,Electronics,1140.37,Mumbai,UPI
+C0163,2026-03-06,Home,1201.46,Pune,UPI
+C0177,2026-03-06,Electronics,780.22,Delhi,UPI
+C0028,2026-03-07,Beauty,1608.56,Nagpur,UPI
+C0099,2026-03-08,Beauty,2134.93,Pune,Debit Card
+C0037,2026-03-11,Clothing,1583.66,Mumbai,Credit Card
+C0190,2026-03-11,Clothing,1910.3,Delhi,UPI
+C0113,2026-03-11,Electronics,2514.56,Pune,UPI
+C0030,2026-03-12,Home,2929.82,Nagpur,UPI
+C0029,2026-03-13,Clothing,3781.29,Aurangabad,Credit Card
+C0075,2026-03-13,Clothing,2993.05,Delhi,Debit Card
+C0099,2026-03-16,Clothing,3757.37,Nashik,Net Banking
+C0124,2026-03-16,Electronics,960.93,Pune,UPI
+C0054,2026-03-16,Electronics,1992.41,Nagpur,Debit Card
+C0033,2026-03-17,Clothing,275.25,Pune,UPI
+C0059,2026-03-17,Home,2545.9,Mumbai,UPI
+C0200,2026-03-18,Beauty,1963.51,Delhi,Credit Card
+C0099,2026-03-19,Home,1558.37,Delhi,UPI
+C0144,2026-03-19,Sports,1641.56,Nashik,Debit Card
+C0189,2026-03-19,Beauty,2187.02,Delhi,UPI
+C0122,2026-03-21,Beauty,1551.16,Delhi,UPI
+C0028,2026-03-21,Beauty,572.02,Nashik,UPI
+C0152,2026-03-22,Clothing,875.83,Mumbai,Net Banking
+C0105,2026-03-24,Electronics,1003.7,Aurangabad,Cash
+C0088,2026-03-24,Clothing,2733.09,Aurangabad,UPI
+C0006,2026-03-25,Clothing,1900.99,Pune,Credit Card
+C0051,2026-03-26,Clothing,1744.72,Thane,UPI
+C0034,2026-03-26,Home,4100.19,Nagpur,Credit Card
+C0061,2026-03-26,Beauty,694.11,Delhi,Credit Card
+C0086,2026-03-28,Clothing,2067.75,Delhi,Net Banking
+C0148,2026-03-28,Sports,10243.55,Nashik,Credit Card
+C0123,2026-03-29,Home,2382.7,Bengaluru,UPI
+C0155,2026-03-30,Home,4299.45,Aurangabad,Net Banking
+C0177,2026-03-30,Sports,1523.26,Bengaluru,UPI
+C0023,2026-03-30,Clothing,1449.02,Nagpur,Net Banking
+C0147,2026-03-31,Beauty,1087.6,Nashik,Net Banking
+C0075,2026-03-31,Clothing,1258.42,Aurangabad,UPI
+C0161,2026-03-31,Home,2467.9,Pune,Cash
+C0178,2026-03-31,Beauty,2477.98,Aurangabad,Net Banking
+C0183,2026-04-03,Electronics,812.49,Pune,Debit Card
+C0151,2026-04-04,Electronics,3203.14,Nagpur,UPI
+C0080,2026-04-04,Clothing,1344.26,Aurangabad,Credit Card
+C0164,2026-04-04,Electronics,4145.02,Mumbai,Credit Card
+C0086,2026-04-04,Clothing,1794.97,Aurangabad,Credit Card
+C0144,2026-04-04,Clothing,2438.6,Aurangabad,Credit Card
+C0017,2026-04-05,Electronics,2335.37,Aurangabad,Debit Card
+C0096,2026-04-05,Electronics,1306.01,Pune,Debit Card
+C0095,2026-04-05,Clothing,654.92,Thane,Credit Card
+C0071,2026-04-07,Beauty,3041.65,Mumbai,UPI
+C0047,2026-04-08,Sports,711.56,Bengaluru,UPI
+C0039,2026-04-08,Electronics,3448.73,Nashik,UPI
+C0104,2026-04-11,Clothing,2160.42,Nashik,UPI
+C0058,2026-04-12,Sports,1196.77,Pune,Credit Card
+C0027,2026-04-12,Beauty,2496.85,Mumbai,UPI
+C0021,2026-04-13,Clothing,2157.52,Thane,UPI
+C0161,2026-04-14,Clothing,2524.05,Nagpur,UPI
+C0059,2026-04-14,Home,1714.52,Bengaluru,Cash
+C0127,2026-04-15,Sports,2392.41,Bengaluru,Credit Card
+C0099,2026-04-16,Electronics,4568.43,Nashik,Debit Card
+C0170,2026-04-18,Sports,3138.39,Mumbai,Credit Card
+C0012,2026-04-19,Beauty,1814.54,Aurangabad,UPI
+C0190,2026-04-20,Clothing,8952.31,Nashik,UPI
+C0024,2026-04-21,Electronics,5884.29,Bengaluru,UPI
+C0062,2026-04-21,Clothing,1510.49,Nashik,UPI
+C0033,2026-04-21,Clothing,1114.89,Bengaluru,Debit Card
+C0113,2026-04-22,Clothing,2105.82,Aurangabad,Debit Card
+C0180,2026-04-22,Clothing,2835.51,Thane,UPI
+C0176,2026-04-22,Home,5038.58,Aurangabad,UPI
+C0139,2026-04-23,Home,4655.06,Aurangabad,Credit Card
+C0005,2026-04-23,Home,3238.51,Thane,UPI
+C0024,2026-04-23,Beauty,3799.09,Pune,Debit Card
+C0111,2026-04-27,Electronics,2169.69,Nagpur,UPI
+C0093,2026-04-27,Clothing,2754.99,Nashik,UPI
+C0019,2026-04-27,Clothing,2546.77,Nagpur,Net Banking
+C0177,2026-04-29,Sports,3270.12,Bengaluru,Cash
+C0193,2026-04-30,Home,1699.02,Pune,Net Banking
+C0025,2026-04-30,Home,3059.5,Pune,Credit Card
+C0132,2026-05-04,Electronics,1782.65,Thane,Credit Card
+C0032,2026-05-04,Beauty,1478.55,Bengaluru,Debit Card
+C0076,2026-05-04,Clothing,1355.71,Bengaluru,UPI
+C0117,2026-05-05,Beauty,1392.79,Bengaluru,Debit Card
+C0112,2026-05-05,Clothing,656.52,Pune,Credit Card
+C0050,2026-05-05,Home,4993.17,Nashik,Credit Card
+C0147,2026-05-06,Clothing,1652.49,Bengaluru,Debit Card
+C0030,2026-05-06,Beauty,290.95,Nagpur,Credit Card
+C0167,2026-05-07,Beauty,461.35,Nashik,Credit Card
+C0032,2026-05-08,Electronics,2473.55,Mumbai,Credit Card
+C0062,2026-05-08,Clothing,3073.16,Pune,Debit Card
+C0096,2026-05-09,Electronics,2182.45,Pune,Net Banking
+C0078,2026-05-09,Home,453.9,Thane,UPI
+C0075,2026-05-09,Electronics,1894.63,Aurangabad,UPI
+C0050,2026-05-10,Electronics,2874.42,Nagpur,UPI
+C0029,2026-05-10,Home,4038.3,Mumbai,Cash
+C0045,2026-05-10,Home,3352.46,Aurangabad,UPI
+C0032,2026-05-12,Electronics,5075.58,Nashik,UPI
+C0149,2026-05-12,Beauty,2128.59,Bengaluru,Debit Card
+C0142,2026-05-12,Home,3780.64,Nashik,Net Banking
+C0191,2026-05-12,Electronics,5634.98,Mumbai,UPI
+C0043,2026-05-13,Electronics,3277.08,Thane,Credit Card
+C0117,2026-05-13,Sports,1190.77,Aurangabad,Credit Card
+C0063,2026-05-13,Electronics,3268.02,Mumbai,UPI
+C0129,2026-05-15,Home,1793.17,Aurangabad,Debit Card
+C0129,2026-05-15,Electronics,1670.2,Pune,UPI
+C0096,2026-05-15,Home,1880.76,Pune,Credit Card
+C0048,2026-05-16,Electronics,2881.79,Nashik,UPI
+C0137,2026-05-16,Home,1390.85,Mumbai,UPI
+C0005,2026-05-16,Sports,4758.75,Mumbai,UPI
+C0053,2026-05-17,Sports,4524.91,Pune,UPI
+C0026,2026-05-17,Sports,2935.65,Mumbai,Debit Card
+C0157,2026-05-18,Sports,1911.27,Aurangabad,UPI
+C0117,2026-05-18,Home,6127.77,Nagpur,Net Banking
+C0089,2026-05-19,Clothing,1303.42,Nashik,Credit Card
+C0059,2026-05-19,Home,1502.8,Nashik,UPI
+C0048,2026-05-21,Clothing,182.91,Nashik,Credit Card
+C0058,2026-05-21,Clothing,2263.3,Nashik,Credit Card
+C0097,2026-05-22,Home,5006.17,Thane,UPI
+C0151,2026-05-22,Clothing,2146.13,Mumbai,UPI
+C0089,2026-05-26,Clothing,2087.38,Nagpur,Net Banking
+C0154,2026-05-26,Electronics,4067.73,Nashik,UPI
+C0033,2026-05-27,Beauty,803.67,Thane,Debit Card
+C0141,2026-05-27,Beauty,644.29,Delhi,Debit Card
+C0132,2026-05-28,Home,1469.35,Mumbai,Credit Card
+C0078,2026-05-28,Sports,1307.73,Pune,UPI
+C0151,2026-05-29,Sports,1367.35,Bengaluru,Credit Card
+C0047,2026-05-30,Beauty,1337.53,Mumbai,UPI
+C0028,2026-05-31,Beauty,4788.36,Delhi,UPI
+C0115,2026-05-31,Electronics,2226.12,Pune,Net Banking
+C0140,2026-05-31,Clothing,1498.7,Aurangabad,UPI
+C0100,2026-05-31,Home,3247.14,Delhi,Debit Card
+C0133,2026-06-01,Home,1279.87,Pune,UPI
+C0012,2026-06-01,Home,1132.99,Mumbai,Net Banking
+C0001,2026-06-01,Clothing,2084.29,Nagpur,Credit Card
+C0015,2026-06-02,Sports,1534.45,Mumbai,UPI
+C0161,2026-06-03,Beauty,2175.88,Pune,UPI
+C0030,2026-06-04,Sports,595.16,Bengaluru,Cash
+C0146,2026-06-04,Home,469.21,Pune,Credit Card
+C0131,2026-06-05,Clothing,4008.35,Bengaluru,UPI
+C0069,2026-06-05,Clothing,1000.91,Aurangabad,UPI
+C0146,2026-06-05,Electronics,3207.86,Thane,Cash
+C0194,2026-06-05,Sports,1574.78,Bengaluru,Credit Card
+C0126,2026-06-05,Electronics,2196.29,Thane,Credit Card
+C0072,2026-06-06,Sports,2883.52,Pune,UPI
+C0159,2026-06-07,Home,2805.79,Nagpur,Credit Card
+C0130,2026-06-08,Beauty,2544.27,Nashik,Credit Card
+C0042,2026-06-08,Beauty,4099.08,Nashik,Credit Card
+C0151,2026-06-08,Home,1647.01,Delhi,Credit Card
+C0001,2026-06-08,Clothing,4720.37,Nagpur,Credit Card
+C0046,2026-06-08,Home,3828.06,Thane,Credit Card
+C0090,2026-06-09,Beauty,1768.75,Bengaluru,Credit Card
+C0048,2026-06-10,Sports,1349.68,Delhi,Credit Card
+C0111,2026-06-10,Clothing,1760.61,Nashik,UPI
+C0152,2026-06-10,Sports,1517.55,Delhi,Net Banking
+C0033,2026-06-10,Electronics,2815.29,Thane,UPI
+C0039,2026-06-11,Electronics,6210.85,Nashik,Credit Card
+C0168,2026-06-11,Beauty,3150.63,Pune,UPI
+C0144,2026-06-11,Beauty,1413.91,Thane,UPI
+C0003,2026-06-13,Beauty,2561.86,Aurangabad,UPI
+C0194,2026-06-14,Clothing,1172.29,Delhi,Net Banking
+C0090,2026-06-16,Home,2387.54,Thane,Net Banking
+C0192,2026-06-16,Beauty,1371.03,Delhi,Net Banking
+C0064,2026-06-16,Clothing,3903.46,Mumbai,Credit Card
+C0168,2026-06-19,Sports,2264.54,Thane,Net Banking
+C0007,2026-06-20,Electronics,3003.16,Pune,Debit Card
+C0190,2026-06-21,Beauty,3313.89,Nashik,UPI
+C0067,2026-06-21,Beauty,1339.68,Aurangabad,Credit Card
+C0190,2026-06-21,Clothing,333.35,Thane,Credit Card
+C0117,2026-06-21,Electronics,4644.76,Thane,Debit Card
+C0187,2026-06-22,Electronics,4843.05,Mumbai,UPI
+C0053,2026-06-22,Beauty,2011.06,Pune,UPI
+C0175,2026-06-22,Beauty,2922.1,Bengaluru,UPI
+C0122,2026-06-23,Home,6635.28,Nagpur,Credit Card
+C0117,2026-06-23,Clothing,1848.18,Pune,UPI
+C0130,2026-06-23,Home,2659.23,Nagpur,Credit Card
+C0179,2026-06-25,Electronics,2418.76,Pune,Net Banking
+C0002,2026-06-27,Clothing,3236.08,Bengaluru,UPI
+C0036,2026-06-28,Clothing,2701.94,Nagpur,UPI
+C0063,2026-06-30,Electronics,3563.87,Pune,Credit Card
+C0104,2026-07-01,Sports,1389.31,Pune,Debit Card
+C0008,2026-07-02,Beauty,3665.44,Pune,Cash
+C0038,2026-07-02,Electronics,928.95,Pune,UPI
+C0011,2026-07-02,Home,2767.22,Bengaluru,Debit Card
+C0102,2026-07-03,Electronics,1623.88,Nashik,UPI
+C0018,2026-07-04,Beauty,1566.61,Bengaluru,Net Banking
+C0188,2026-07-04,Sports,1169.78,Mumbai,UPI
+C0027,2026-07-04,Sports,492.25,Delhi,Debit Card
+C0163,2026-07-04,Beauty,3391.4,Mumbai,Credit Card
+C0141,2026-07-05,Sports,1142.85,Delhi,UPI
+C0148,2026-07-06,Home,1079.57,Bengaluru,Net Banking
+C0010,2026-07-06,Home,3430.86,Nagpur,Credit Card
+C0091,2026-07-07,Sports,787.26,Pune,UPI
+C0117,2026-07-07,Electronics,2004.28,Mumbai,UPI
+C0011,2026-07-07,Home,124.89,Thane,Debit Card
+C0180,2026-07-08,Clothing,1856.87,Pune,UPI
+C0009,2026-07-08,Home,3138.93,Nagpur,Credit Card
+C0034,2026-07-10,Beauty,3109.77,Nashik,UPI
+C0065,2026-07-11,Beauty,2587.04,Aurangabad,UPI
+C0033,2026-07-11,Clothing,2258.09,Pune,UPI
+C0142,2026-07-12,Electronics,1828.6,Aurangabad,Debit Card
+C0141,2026-07-12,Clothing,717.09,Nagpur,UPI
+C0013,2026-07-13,Clothing,5302.48,Nagpur,Debit Card
+C0135,2026-07-13,Electronics,1740.2,Thane,Credit Card
+C0012,2026-07-15,Home,2510.76,Mumbai,Debit Card
+C0009,2026-07-16,Electronics,2777.44,Delhi,UPI
+C0191,2026-07-16,Electronics,577.17,Bengaluru,Credit Card
+C0092,2026-07-18,Clothing,5577.79,Bengaluru,Net Banking
+C0028,2026-07-18,Home,2005.44,Delhi,UPI
+C0185,2026-07-21,Home,1036.68,Mumbai,UPI
+C0134,2026-07-21,Electronics,749.11,Delhi,UPI
+C0069,2026-07-22,Home,1147.4,Mumbai,Credit Card
+C0116,2026-07-23,Home,5058.2,Delhi,UPI
+C0141,2026-07-24,Sports,1971.45,Aurangabad,Cash
+C0057,2026-07-24,Sports,2637.74,Mumbai,Debit Card
+C0163,2026-07-25,Home,1393.82,Nagpur,Net Banking
+C0058,2026-07-25,Electronics,2129.33,Delhi,UPI
+C0114,2026-07-25,Beauty,661.58,Nashik,Credit Card
+C0178,2026-07-25,Home,1981.07,Bengaluru,UPI
+C0021,2026-07-26,Home,1618.68,Pune,Debit Card
+C0054,2026-07-26,Sports,3304.98,Nagpur,UPI
+C0089,2026-07-27,Clothing,1641.04,Thane,UPI
+C0049,2026-07-28,Beauty,1033.37,Mumbai,Net Banking
+C0095,2026-07-28,Home,2376.62,Mumbai,UPI
+C0144,2026-07-29,Clothing,1755.67,Pune,Net Banking
+C0154,2026-07-29,Home,1874.67,Mumbai,Debit Card
+C0183,2026-07-29,Beauty,1458.47,Bengaluru,UPI
+C0128,2026-07-29,Home,3886.04,Nashik,UPI
+C0001,2026-07-30,Clothing,1192.84,Aurangabad,Credit Card
+C0021,2026-07-30,Home,996.77,Mumbai,UPI
+C0005,2026-07-31,Beauty,1909.77,Nashik,Debit Card
