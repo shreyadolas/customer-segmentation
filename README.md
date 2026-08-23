@@ -4,7 +4,7 @@ An interactive Customer Segmentation Dashboard built using Python and Streamlit.
 
 ## 🚀 Live Demo
 
-[View the Customer Segmentation Dashboard](YOUR_STREAMLIT_LINK_HERE)
+[🚀 Open Customer Segmentation Dashboard](https://shreyadolas-customer-segmentation-app-llnbea.streamlit.app/)
 
 ## 📊 Features
 
