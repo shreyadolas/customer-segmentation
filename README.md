@@ -93,7 +93,7 @@ streamlit run app.py
 
 The application is deployed using Streamlit.
 
-[Open Customer Segmentation Dashboard](https://shreyadolas-customer-segmentation-app-lnbea.streamlit.app/)
+[🚀 Open Customer Segmentation Dashboard](https://shreyadolas-customer-segmentation-app-llnbea.streamlit.app/)
 
 ## 👩‍💻 Author
 
